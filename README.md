@@ -1,1 +1,0 @@
-# Framingham-Heart-Disease-Prediction
